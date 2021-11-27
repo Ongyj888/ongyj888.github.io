@@ -123,3 +123,9 @@ a:hover {
     opacity: 1;
     transform: translateY(0);
 }
+
+footer {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
