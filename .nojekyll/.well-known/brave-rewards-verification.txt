@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ongyj888.github.io
-Token: 2532a4b6252092b878564ecf24e07f269118594f9b56af3485370d01d1cfdaad
